@@ -1,2 +1,2 @@
 # Neural-Network-Practice
-This is just soem practice with neral nets I am doing
+This is just some practice with neural nets I am doing
